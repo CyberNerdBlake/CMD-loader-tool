@@ -1,0 +1,17 @@
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\bin\Debug\net8.0-windows\cmd loader tool.exe
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\bin\Debug\net8.0-windows\cmd loader tool.deps.json
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\bin\Debug\net8.0-windows\cmd loader tool.runtimeconfig.json
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\bin\Debug\net8.0-windows\cmd loader tool.dll
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\bin\Debug\net8.0-windows\cmd loader tool.pdb
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd_loader_tool.Form1.resources
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd_loader_tool.Resources.resources
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.vbproj.GenerateResource.cache
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.AssemblyInfoInputs.cache
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.AssemblyInfo.vb
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.vbproj.CoreCompileInputs.cache
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.dll
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\refint\cmd loader tool.dll
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.pdb
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\cmd loader tool.genruntimeconfig.cache
+C:\Users\mikey\source\repos\cmd loader tool\cmd loader tool\obj\Debug\net8.0-windows\ref\cmd loader tool.dll
